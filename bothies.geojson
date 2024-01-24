@@ -1,0 +1,1877 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/achnanclach/",
+                "features": [
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Dogs under strict control",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.347034502424493,
+                    58.42672460955771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/coiremor-choire-mhoir/",
+                "features": [
+                    "No local fuel",
+                    "Multi-fuel stove",
+                    "Strictly no vehicle access",
+                    "No fires outside",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.860234833224348,
+                    57.8564553620794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/croft-house-lochstrathy/",
+                "features": [
+                    "Open fire",
+                    "Strictly no vehicle access",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.066687736144918,
+                    58.412679049987325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/glencoul/",
+                "features": [
+                    "Small Bothy",
+                    "Open fire",
+                    "Sleeping platform"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.948216757298602,
+                    58.228303807719875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/glendhu/",
+                "features": [
+                    "Fuel scarce",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.930288466679635,
+                    58.25927018062817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/kearvaig/",
+                "features": [
+                    "No fires outside",
+                    "Open fire",
+                    "Strictly no vehicle access",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.944000802346936,
+                    58.60853185975361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/knockdamph/",
+                "features": [
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Open fire",
+                    "Sleeping platform"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.897045702556429,
+                    57.91493601032264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/schoolhouse-duag-bridge/",
+                "features": [
+                    "No Fire or Stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.807303462923604,
+                    57.93581846610962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/shenavall/",
+                "features": [
+                    "Small Bothy",
+                    "Open fire",
+                    "Fuel scarce",
+                    "Strictly no vehicle access",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.256948635467586,
+                    57.77680751432887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/strabeg/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.75867421531522,
+                    58.4248294749358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/strathan/",
+                "features": [
+                    "No fires outside",
+                    "Fuel scarce",
+                    "Sleeping platform",
+                    "No dogs allowed",
+                    "Cut your own peat",
+                    "Open fire",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.012625561351698,
+                    58.50359944548029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/strathchailleach/",
+                "features": [
+                    "Dogs under strict control",
+                    "Small Bothy",
+                    "Cut your own peat",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0127355836340355,
+                    58.5449356598011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/suileag/",
+                "features": [
+                    "Sleeping Bunks",
+                    "Open fire",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.147011814710036,
+                    58.139987308159945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/bearnais/",
+                "features": [
+                    "Small Bothy",
+                    "Open fire",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3016285643864585,
+                    57.43498251435687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/camasunary/",
+                "features": [
+                    "No fires outside",
+                    "No Fire or Stove",
+                    "Sleeping platform"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.116952976122632,
+                    57.1880503779607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/camban/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Sleeping platform",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.228722312375571,
+                    57.21484528605399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/coire-fionnaraich/",
+                "features": [
+                    "No local fuel",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.424132962666276,
+                    57.475770505715346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/craig/",
+                "features": [
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.730872092447645,
+                    57.610045498789106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/easan-dorcha-the-teahouse/",
+                "features": [
+                    "Small Bothy",
+                    "No Fire or Stove",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.324390185456047,
+                    57.51978053574062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/lookout-rubha-hunish/",
+                "features": [
+                    "Water unreliable",
+                    "No Fire or Stove",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.352792530577955,
+                    57.703551090399884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/maol-bhuidhe/",
+                "features": [
+                    "Fuel scarce",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.242622955164037,
+                    57.37269075872031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/ollisdal/",
+                "features": [
+                    "No dogs allowed",
+                    "Open fire",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.644623302906158,
+                    57.359515947569335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/taigh-thormoid-dhuibh-raasay/",
+                "features": [
+                    "Water unreliable",
+                    "Open fire",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.992899374644925,
+                    57.500462010891304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/uags/",
+                "features": [
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.791067917753731,
+                    57.349324252580104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/uisinis/",
+                "features": [
+                    "Small Bothy",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.242979736611636,
+                    57.280359067396255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/achuil/",
+                "features": [
+                    "Open fire",
+                    "Sleeping platform",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.387966778851411,
+                    56.976933650400376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/dibidil/",
+                "features": [
+                    "Sleeping platform",
+                    "No local fuel",
+                    "Multi-fuel stove",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.29582702561077,
+                    56.95274831981645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/gleann-dubh-lighe/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Sleeping platform",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.377851286465692,
+                    56.88371408308336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/glenpean/",
+                "features": [
+                    "Wood burning stove",
+                    "Open fire",
+                    "Sleeping platform",
+                    "Strictly no vehicle access",
+                    "No fires outside",
+                    "Composting toilet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.399502673946969,
+                    56.958642235173485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/guirdil/",
+                "features": [
+                    "Open fire",
+                    "Sleeping platform",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.425243556984757,
+                    57.0256063712183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/invermallie/",
+                "features": [
+                    "Open fire",
+                    "Sleeping platform",
+                    "Strictly no vehicle access",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0690852758254366,
+                    56.95278205350459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/kinbreack/",
+                "features": [
+                    "Open fire",
+                    "Fuel scarce",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.295305210815319,
+                    57.01176310056738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/oban/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "Fuel scarce",
+                    "Sleeping platform",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.519417148394071,
+                    56.952638157300676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/sourlies/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "Sleeping platform",
+                    "Small Bothy",
+                    "Fuel scarce",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.515424242311048,
+                    56.99770077272318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/suardalan/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Fuel scarce",
+                    "Sleeping platform",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.509534378520657,
+                    57.19744350335958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/cadderlie/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.176012081921179,
+                    56.48448202417815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/carron/",
+                "features": [
+                    "Small Bothy",
+                    "Fuel scarce",
+                    "Sleeping platform",
+                    "No dogs allowed",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.314139825026687,
+                    56.14465516955407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/cruib/",
+                "features": [
+                    "No local fuel",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9062666845377745,
+                    55.97723223528797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/doune-byre/",
+                "features": [
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.698377737911435,
+                    56.29262666569855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/essan/",
+                "features": [
+                    "Sleeping Bunks",
+                    "Open fire",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.587873858419881,
+                    56.87517900617692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/glengarrisdale/",
+                "features": [
+                    "No local fuel",
+                    "Open fire",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.795145087290616,
+                    56.1074790291242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/leacraithnaich/",
+                "features": [
+                    "Fuel scarce",
+                    "Open fire",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6806141844618505,
+                    56.56229943153346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/mark-cottage/",
+                "features": [
+                    "Open fire",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.85205014047642,
+                    56.116607320434724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/resourie/",
+                "features": [
+                    "Wood burning stove",
+                    "Strictly no vehicle access",
+                    "Open fire",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.506583512880908,
+                    56.781284825633335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/rowchoish/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Open fire",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.685543916390345,
+                    56.20212542492999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/taigh-seumas-a-ghlinne-glenduror/",
+                "features": [
+                    "Wood burning stove",
+                    "Sleeping platform"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.229650405434849,
+                    56.63592301210014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/tomsleibhe/",
+                "features": [
+                    "Dogs under strict control",
+                    "Open fire",
+                    "Sleeping platform"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.873438779537623,
+                    56.46654135857206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/druimnashallag/",
+                "features": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.139780903730349,
+                    56.49440836832526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/abyssinia/",
+                "features": [
+                    "Sleeping platform",
+                    "Multi-fuel stove",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.819459581642571,
+                    56.26566507364267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/ben-alder-cottage/",
+                "features": [
+                    "Fuel scarce",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.459432722333832,
+                    56.779305301736855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/blackburn-of-corrieyairack/",
+                "features": [
+                    "Open fire",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.67336331849573,
+                    57.088566709125466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/culra/",
+                "features": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.424893172348754,
+                    56.853671597729566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/glenbuck/",
+                "features": [
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7471239632699005,
+                    57.05731635721434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/gorton/",
+                "features": [
+                    "Open fire",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.649869132364416,
+                    56.5965601296208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/lairig-leacach/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Small Bothy",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.818656599467144,
+                    56.82384734426003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/loch-chiarain/",
+                "features": [
+                    "No local fuel",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.800203367093192,
+                    56.73078840954858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/luib-chonnal/",
+                "features": [
+                    "Multi-fuel stove",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.647591622724677,
+                    57.0055330475324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/meanach/",
+                "features": [
+                    "Open fire",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.841282919625208,
+                    56.77569928909915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/staoineag/",
+                "features": [
+                    "Open fire",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7916884186573485,
+                    56.77052553554451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/allt-scheicheachan/",
+                "features": [
+                    "Small Bothy",
+                    "Open fire",
+                    "Fuel scarce"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.911869103947162,
+                    56.84010505289514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/callater-stable/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "No Fire or Stove",
+                    "Composting toilet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.352963457294999,
+                    56.944438715729675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/charr/",
+                "features": [
+                    "No Fire or Stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6326969486399276,
+                    56.937578828446995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/corrour/",
+                "features": [
+                    "Open fire",
+                    "Composting toilet",
+                    "Small Bothy",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.681392654508365,
+                    57.04198455758123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/faindouran/",
+                "features": [
+                    "Small Bothy",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.518718425525093,
+                    57.1374990494723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/fords-of-avon-refuge/",
+                "features": [
+                    "No Fire or Stove",
+                    "Emergency Refuge"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.583670165604815,
+                    57.109742916938075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/gelder-shiel-stable/",
+                "features": [
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2230662021221415,
+                    56.99518862902623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/hutchison-memorial-hut-etchachan/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Small Bothy",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6137181607288715,
+                    57.078812558392514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/ruigh-aiteachain/",
+                "features": [
+                    "No fires outside",
+                    "Wood burning stove",
+                    "Composting toilet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9009028738401668,
+                    57.01189211182429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/ryvoan/",
+                "features": [
+                    "Multi-fuel stove",
+                    "No local fuel",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6464292300380143,
+                    57.183506651718496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/shielin-of-mark/",
+                "features": [
+                    "Small Bothy",
+                    "Open fire",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.091102808321066,
+                    56.93082560412222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/tarf-hotel-feith-uaine/",
+                "features": [
+                    "No local fuel",
+                    "Multi-fuel stove",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.763217517098739,
+                    56.88901368740113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/eastern-highlands/the-red-house-ruighe-ealasaid/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Composting toilet",
+                    "Strictly no vehicle access",
+                    "Sleeping Bunks"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6416009750143483,
+                    56.96254808565156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/leysburnfoot-wills-bothy/",
+                "features": [
+                    "Open fire",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7318373752491487,
+                    55.270356167148556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/brattleburn/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Wood burning stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.553522653390793,
+                    55.34624493268064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/burleywhag/",
+                "features": [
+                    "Wood burning stove",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6219984528223725,
+                    55.28424445913267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/clennoch/",
+                "features": [
+                    "No Fire or Stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.201552564576123,
+                    55.27607678333921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/dryfehead/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Composting toilet",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3085613581518922,
+                    55.28620650641873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/gameshope/",
+                "features": [
+                    "No fires outside",
+                    "No Fire or Stove",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.369437827149892,
+                    55.4526884395959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/greensykes/",
+                "features": [
+                    "Composting toilet",
+                    "Open fire",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.084977980409369,
+                    55.289295793651114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/kettleton-byre/",
+                "features": [
+                    "Wood burning stove",
+                    "Small Bothy",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7156844871565204,
+                    55.30093912818114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/over-phawhope/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2905119775696883,
+                    55.360986310887796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/tunskeen/",
+                "features": [
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.476487603079078,
+                    55.184524276357486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/southern-scotland/white-laggan/",
+                "features": [
+                    "Wood burning stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.404970760393243,
+                    55.068201569191324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/gregs-hut-cross-fell/",
+                "features": [
+                    "Small Bothy",
+                    "No local fuel",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.481155862659133,
+                    54.71355395769916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/dubs-hut/",
+                "features": [
+                    "Wood burning stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.223346834705793,
+                    54.50971411763286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/green/",
+                "features": [
+                    "Wood burning stove",
+                    "Open fire",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4090073837166477,
+                    55.101131609499596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/haughtongreen/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Composting toilet",
+                    "Wood burning stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3332362942570772,
+                    55.0357639836435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/kershopehead/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Strictly no vehicle access",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7174163805672724,
+                    55.1688990989557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/mosedale-cottage/",
+                "features": [
+                    "No local fuel",
+                    "Multi-fuel stove",
+                    "Composting toilet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7809046331491545,
+                    54.478330467409045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/roughside/",
+                "features": [
+                    "Composting toilet",
+                    "Open fire"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4015952556042834,
+                    55.14339072707297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/spithope/",
+                "features": [
+                    "Small Bothy",
+                    "Wood burning stove",
+                    "Strictly no vehicle access"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.365787573663642,
+                    55.34478674955181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/wainhope/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5187631519139524,
+                    55.22561949579516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/warnscale-head/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Small Bothy",
+                    "Dogs under strict control",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.22995644202996,
+                    54.508568576309216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/flittingford/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Open fire",
+                    "Water unreliable",
+                    "Small Bothy"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3879380764843585,
+                    55.19106067928849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/northern-england-borders/great-lingy-hut/",
+                "features": [
+                    "No Fire or Stove",
+                    "Small Bothy",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.070521882967645,
+                    54.69180737835456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/arenig-fawr/",
+                "features": [
+                    "Dogs under strict control",
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Sleeping platform",
+                    "Small Bothy",
+                    "No dogs allowed",
+                    "Open fire",
+                    "No local fuel"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.712538560902817,
+                    52.926158772871474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/dulyn/",
+                "features": [
+                    "Multi-fuel stove",
+                    "No local fuel",
+                    "Sleeping platform",
+                    "Strictly no vehicle access",
+                    "No fires outside",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.939756216725942,
+                    53.17889855036236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/grwyne-fawr/",
+                "features": [
+                    "Multi-fuel stove",
+                    "Small Bothy",
+                    "Strictly no vehicle access",
+                    "No fires outside",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.129776596105357,
+                    51.9747446552213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/lluest-cwmbach/",
+                "features": [
+                    "Multi-fuel stove",
+                    "No local fuel",
+                    "Sleeping platform",
+                    "Strictly no vehicle access",
+                    "No fires outside",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6141972876586728,
+                    52.32156337454281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/moel-prysgau/",
+                "features": [
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Sleeping platform",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7488417695651592,
+                    52.23602854675914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/nant-rhys/",
+                "features": [
+                    "No fires outside",
+                    "Strictly no vehicle access",
+                    "Sleeping platform",
+                    "Multi-fuel stove"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.711169592068129,
+                    52.39932138054146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/nant-syddion/",
+                "features": [
+                    "Dogs under strict control",
+                    "Multi-fuel stove",
+                    "Strictly no vehicle access",
+                    "No fires outside"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.805180893277594,
+                    52.39612577113736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/penrhos-isaf/",
+                "features": [
+                    "No fires outside",
+                    "Dogs under strict control",
+                    "Strictly no vehicle access",
+                    "Multi-fuel stove",
+                    "Composting toilet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8737467593683728,
+                    52.79785799431143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "url": "https://www.mountainbothies.org.uk/bothies/wales/cae-amos/",
+                "features": [
+                    "Strictly no vehicle access",
+                    "Multi-fuel stove",
+                    "No fires outside",
+                    "Dogs under strict control"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.211478538794092,
+                    52.98625841311632
+                ]
+            }
+        }
+    ]
+}
