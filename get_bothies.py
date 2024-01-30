@@ -93,6 +93,10 @@ def get_bothie_info(url):
     else:
         gridref_text = None
 
+    # get name (span within h1)
+    name = soup.find("h1").find("span").text
+
+    # get features
     features_text = soup.find(
         "h2", string=lambda text: "Features" in text if text else False
     )
@@ -102,7 +106,7 @@ def get_bothie_info(url):
     else:
         features = []
 
-    return gridref_text, features
+    return {"grid_ref": gridref_text, "features": features, "name": name}
 
 
 def save_cache(file, cache):
@@ -119,10 +123,10 @@ def main():
 
     bothies = {}
     for url in tqdm(bothie_urls):
-        grid_ref, features = get_bothie_info(url)
+        bothie_info = get_bothie_info(url)
         if OVERRIDES.get(url):
-            grid_ref = OVERRIDES[url]
-        bothies[url] = {"grid_ref": grid_ref, "features": features}
+            bothie_info["grid_ref"] = OVERRIDES[url]
+        bothies[url] = bothie_info
 
     save_cache("bothies.json", bothies)
 

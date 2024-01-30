@@ -18,18 +18,18 @@ def main():
     geojson = {"type": "FeatureCollection", "features": []}
     for url, info in bothies.items():
         grid_ref = info["grid_ref"]
-        features = info["features"]
         if grid_ref:
             coords = grid2latlong(grid_ref)
             lat, lon = coords.latitude, coords.longitude
-            print(f"{url} {grid_ref} {lat} {lon}")
+            # print(f"{url} {grid_ref} {lat} {lon}")
 
             geojson["features"].append(
                 {
                     "type": "Feature",
                     "properties": {
                         "url": url,
-                        "features": features,
+                        "features": info["features"],
+                        "name": info["name"],
                     },
                     "geometry": {"type": "Point", "coordinates": [lon, lat]},
                 }
