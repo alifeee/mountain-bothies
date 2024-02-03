@@ -30,6 +30,7 @@ def main():
                         "url": url,
                         "features": info["features"],
                         "name": info["name"],
+                        "location": info["location"],
                     },
                     "geometry": {"type": "Point", "coordinates": [lon, lat]},
                 }

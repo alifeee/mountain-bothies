@@ -6,14 +6,26 @@ Info output as `geoJSON` file -> [`bothies.geojson`](./bothies.geojson), for exa
 
 ```json
 ...
-    "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/essan/": {
-        "grid_ref": "NM 817 817",
+{
+    "type": "Feature",
+    "properties": {
+        "url": "https://www.mountainbothies.org.uk/bothies/northern-highlands/croft-house-lochstrathy/",
         "features": [
-            "Sleeping Bunks",
             "Open fire",
-            "Fuel scarce"
-        ]
+            "Strictly no vehicle access",
+            "Dogs under strict control"
+        ],
+        "name": "Croft House (Lochstrathy)",
+        "location": "Northern Highlands"
     },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.066687736144918,
+            58.412679049987325
+        ]
+    }
+},
 ...
 ```
 

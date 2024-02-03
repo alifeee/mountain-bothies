@@ -96,6 +96,15 @@ def get_bothie_info(url):
     # get name (span within h1)
     name = soup.find("h1").find("span").text
 
+    # get location (content of strong next to span with "Location:")
+    #  i.e., <strong><span>Location:</span> Eastern Highlands</strong>
+    location = soup.find("span", string=lambda text: "Location:" in text)
+    if location:
+        location_text = location.parent.text
+        location_text = location_text.replace("Location:", "").strip()
+    else:
+        location_text = None
+
     # get features
     features_text = soup.find(
         "h2", string=lambda text: "Features" in text if text else False
@@ -106,7 +115,12 @@ def get_bothie_info(url):
     else:
         features = []
 
-    return {"grid_ref": gridref_text, "features": features, "name": name}
+    return {
+        "grid_ref": gridref_text,
+        "features": features,
+        "name": name,
+        "location": location_text,
+    }
 
 
 def save_cache(file, cache):

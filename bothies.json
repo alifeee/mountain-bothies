@@ -7,7 +7,8 @@
             "Dogs under strict control",
             "Open fire"
         ],
-        "name": "Achnanclach"
+        "name": "Achnanclach",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/coiremor-choire-mhoir/": {
         "grid_ref": "NH 305 888",
@@ -18,7 +19,8 @@
             "No fires outside",
             "Dogs under strict control"
         ],
-        "name": "Coiremor (Choire Mhoir)"
+        "name": "Coiremor (Choire Mhoir)",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/croft-house-lochstrathy/": {
         "grid_ref": "NC 794 490",
@@ -27,7 +29,8 @@
             "Strictly no vehicle access",
             "Dogs under strict control"
         ],
-        "name": "Croft House (Lochstrathy)"
+        "name": "Croft House (Lochstrathy)",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/glencoul/": {
         "grid_ref": "NC  271 304",
@@ -36,7 +39,8 @@
             "Open fire",
             "Sleeping platform"
         ],
-        "name": "Glencoul"
+        "name": "Glencoul",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/glendhu/": {
         "grid_ref": "NC 283 338",
@@ -44,7 +48,8 @@
             "Fuel scarce",
             "Open fire"
         ],
-        "name": "Glendhu"
+        "name": "Glendhu",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/kearvaig/": {
         "grid_ref": "NC 292 727",
@@ -54,7 +59,8 @@
             "Strictly no vehicle access",
             "Fuel scarce"
         ],
-        "name": "Kearvaig"
+        "name": "Kearvaig",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/knockdamph/": {
         "grid_ref": "NH  286 954",
@@ -64,14 +70,16 @@
             "Open fire",
             "Sleeping platform"
         ],
-        "name": "Knockdamph"
+        "name": "Knockdamph",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/schoolhouse-duag-bridge/": {
         "grid_ref": "NH 340 975",
         "features": [
             "No Fire or Stove"
         ],
-        "name": "Schoolhouse (Duag Bridge)"
+        "name": "Schoolhouse (Duag Bridge)",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/shenavall/": {
         "grid_ref": "NH 066 810",
@@ -82,7 +90,8 @@
             "Strictly no vehicle access",
             "No fires outside"
         ],
-        "name": "Shenavall"
+        "name": "Shenavall",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/strabeg/": {
         "grid_ref": "NC 391 518",
@@ -92,7 +101,8 @@
             "Strictly no vehicle access",
             "Open fire"
         ],
-        "name": "Strabeg"
+        "name": "Strabeg",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/strathan/": {
         "grid_ref": "NC 247 612",
@@ -105,7 +115,8 @@
             "Open fire",
             "Dogs under strict control"
         ],
-        "name": "Strathan"
+        "name": "Strathan",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/strathchailleach/": {
         "grid_ref": "NC 249 658",
@@ -115,7 +126,8 @@
             "Cut your own peat",
             "Open fire"
         ],
-        "name": "Strathchailleach"
+        "name": "Strathchailleach",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-highlands/suileag/": {
         "grid_ref": "NC 150 211",
@@ -124,7 +136,8 @@
             "Open fire",
             "No local fuel"
         ],
-        "name": "Suileag"
+        "name": "Suileag",
+        "location": "Northern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/bearnais/": {
         "grid_ref": "NH 021 431",
@@ -133,7 +146,8 @@
             "Open fire",
             "No local fuel"
         ],
-        "name": "Bearnais"
+        "name": "Bearnais",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/camasunary/": {
         "grid_ref": "NG 517 183",
@@ -142,7 +156,8 @@
             "No Fire or Stove",
             "Sleeping platform"
         ],
-        "name": "Camasunary"
+        "name": "Camasunary",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/camban/": {
         "grid_ref": "NH 053 184",
@@ -151,7 +166,8 @@
             "Sleeping platform",
             "Fuel scarce"
         ],
-        "name": "Camban"
+        "name": "Camban",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/coire-fionnaraich/": {
         "grid_ref": "NG 950 480",
@@ -159,14 +175,16 @@
             "No local fuel",
             "Multi-fuel stove"
         ],
-        "name": "Coire Fionnaraich"
+        "name": "Coire Fionnaraich",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/craig/": {
         "grid_ref": "NG 775 639",
         "features": [
             "Multi-fuel stove"
         ],
-        "name": "Craig"
+        "name": "Craig",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/easan-dorcha-the-teahouse/": {
         "grid_ref": "NH 012 526",
@@ -175,7 +193,8 @@
             "No Fire or Stove",
             "No fires outside"
         ],
-        "name": "Easan Dorcha (The Teahouse)"
+        "name": "Easan Dorcha (The Teahouse)",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/lookout-rubha-hunish/": {
         "grid_ref": "NG 412 765",
@@ -184,7 +203,8 @@
             "No Fire or Stove",
             "Small Bothy"
         ],
-        "name": "Lookout (Rubha Hunish)"
+        "name": "Lookout (Rubha Hunish)",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/maol-bhuidhe/": {
         "grid_ref": "NH 053 360",
@@ -192,7 +212,8 @@
             "Fuel scarce",
             "Open fire"
         ],
-        "name": "Maol Bhuidhe"
+        "name": "Maol Bhuidhe",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/ollisdal/": {
         "grid_ref": "NG 213 394",
@@ -201,7 +222,8 @@
             "Open fire",
             "Small Bothy"
         ],
-        "name": "Ollisdal"
+        "name": "Ollisdal",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/taigh-thormoid-dhuibh-raasay/": {
         "grid_ref": "NG 612 526",
@@ -210,14 +232,16 @@
             "Open fire",
             "Fuel scarce"
         ],
-        "name": "Taigh Thormoid Dhuibh (Raasay)"
+        "name": "Taigh Thormoid Dhuibh (Raasay)",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/uags/": {
         "grid_ref": "NG 723 351",
         "features": [
             "Open fire"
         ],
-        "name": "Uags"
+        "name": "Uags",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/north-west-highlands-islands/uisinis/": {
         "grid_ref": "NF 849 332",
@@ -225,7 +249,8 @@
             "Small Bothy",
             "Multi-fuel stove"
         ],
-        "name": "Uisinis"
+        "name": "Uisinis",
+        "location": "North West Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/achuil/": {
         "grid_ref": "NM 944 924",
@@ -234,7 +259,8 @@
             "Sleeping platform",
             "Strictly no vehicle access"
         ],
-        "name": "A'Chuil"
+        "name": "A'Chuil",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/dibidil/": {
         "grid_ref": "NM 393 928",
@@ -244,7 +270,8 @@
             "Multi-fuel stove",
             "Fuel scarce"
         ],
-        "name": "Dibidil"
+        "name": "Dibidil",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/gleann-dubh-lighe/": {
         "grid_ref": "NM 945 820",
@@ -253,7 +280,8 @@
             "Sleeping platform",
             "Open fire"
         ],
-        "name": "Gleann Dubh-lighe"
+        "name": "Gleann Dubh-lighe",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/glenpean/": {
         "grid_ref": "NM 936 904",
@@ -265,7 +293,8 @@
             "No fires outside",
             "Composting toilet"
         ],
-        "name": "Glenpean"
+        "name": "Glenpean",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/guirdil/": {
         "grid_ref": "NG 320 014",
@@ -274,7 +303,8 @@
             "Sleeping platform",
             "Dogs under strict control"
         ],
-        "name": "Guirdil"
+        "name": "Guirdil",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/invermallie/": {
         "grid_ref": "NN 136 888",
@@ -284,7 +314,8 @@
             "Strictly no vehicle access",
             "Dogs under strict control"
         ],
-        "name": "Invermallie"
+        "name": "Invermallie",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/kinbreack/": {
         "grid_ref": "NN 002 960",
@@ -293,7 +324,8 @@
             "Fuel scarce",
             "Small Bothy"
         ],
-        "name": "Kinbreack"
+        "name": "Kinbreack",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/oban/": {
         "grid_ref": "NM 863 901",
@@ -304,7 +336,8 @@
             "Sleeping platform",
             "Open fire"
         ],
-        "name": "Oban"
+        "name": "Oban",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/sourlies/": {
         "grid_ref": "NM 868 951",
@@ -316,7 +349,8 @@
             "Fuel scarce",
             "Open fire"
         ],
-        "name": "Sourlies"
+        "name": "Sourlies",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/western-highlands-islands/suardalan/": {
         "grid_ref": "NG 883 173",
@@ -328,7 +362,8 @@
             "Sleeping platform",
             "Open fire"
         ],
-        "name": "Suardalan"
+        "name": "Suardalan",
+        "location": "Western Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/cadderlie/": {
         "grid_ref": "NN 047 370",
@@ -336,7 +371,8 @@
             "Strictly no vehicle access",
             "Open fire"
         ],
-        "name": "Cadderlie"
+        "name": "Cadderlie",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/carron/": {
         "grid_ref": "NR 944 996",
@@ -347,7 +383,8 @@
             "No dogs allowed",
             "Open fire"
         ],
-        "name": "Carron"
+        "name": "Carron",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/cruib/": {
         "grid_ref": "NR 567 829",
@@ -355,14 +392,16 @@
             "No local fuel",
             "Open fire"
         ],
-        "name": "Cruib"
+        "name": "Cruib",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/doune-byre/": {
         "grid_ref": "NN 332 144",
         "features": [
             "Open fire"
         ],
-        "name": "Doune Byre"
+        "name": "Doune Byre",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/essan/": {
         "grid_ref": "NM 817 817",
@@ -371,7 +410,8 @@
             "Open fire",
             "Fuel scarce"
         ],
-        "name": "Essan"
+        "name": "Essan",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/glengarrisdale/": {
         "grid_ref": "NR 644 970",
@@ -380,7 +420,8 @@
             "Open fire",
             "Multi-fuel stove"
         ],
-        "name": "Glengarrisdale"
+        "name": "Glengarrisdale",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/leacraithnaich/": {
         "grid_ref": "NM 742 472",
@@ -389,7 +430,8 @@
             "Open fire",
             "Dogs under strict control"
         ],
-        "name": "Leacraithnaich"
+        "name": "Leacraithnaich",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/mark-cottage/": {
         "grid_ref": "NS 229 952",
@@ -397,7 +439,8 @@
             "Open fire",
             "No fires outside"
         ],
-        "name": "Mark Cottage"
+        "name": "Mark Cottage",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/resourie/": {
         "grid_ref": "NM 861 710",
@@ -407,7 +450,8 @@
             "Open fire",
             "No fires outside"
         ],
-        "name": "Resourie"
+        "name": "Resourie",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/rowchoish/": {
         "grid_ref": "NN 336 043",
@@ -416,7 +460,8 @@
             "Open fire",
             "No fires outside"
         ],
-        "name": "Rowchoish"
+        "name": "Rowchoish",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/taigh-seumas-a-ghlinne-glenduror/": {
         "grid_ref": "NN 022 540",
@@ -424,7 +469,8 @@
             "Wood burning stove",
             "Sleeping platform"
         ],
-        "name": "Taigh Seumas a\u2019 Ghlinne (Glenduror)"
+        "name": "Taigh Seumas a\u2019 Ghlinne (Glenduror)",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/tomsleibhe/": {
         "grid_ref": "NM 618 372",
@@ -433,12 +479,14 @@
             "Open fire",
             "Sleeping platform"
         ],
-        "name": "Tomsleibhe"
+        "name": "Tomsleibhe",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/druimnashallag/": {
         "grid_ref": "NN 06975 38002",
         "features": [],
-        "name": "Druimnashallag"
+        "name": "Druimnashallag",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/abyssinia/": {
         "grid_ref": "NN 256 117",
@@ -447,7 +495,8 @@
             "Multi-fuel stove",
             "Strictly no vehicle access"
         ],
-        "name": "Abyssinia"
+        "name": "Abyssinia",
+        "location": "Southwest Highlands & Islands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/ben-alder-cottage/": {
         "grid_ref": "NN 499 680",
@@ -455,7 +504,8 @@
             "Fuel scarce",
             "Multi-fuel stove"
         ],
-        "name": "Ben Alder Cottage"
+        "name": "Ben Alder Cottage",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/blackburn-of-corrieyairack/": {
         "grid_ref": "NH 382 029",
@@ -463,19 +513,22 @@
             "Open fire",
             "Small Bothy"
         ],
-        "name": "Blackburn of Corrieyairack"
+        "name": "Blackburn of Corrieyairack",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/culra/": {
         "grid_ref": "NN 523 762",
         "features": [],
-        "name": "Culra"
+        "name": "Culra",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/glenbuck/": {
         "grid_ref": "NN 336 996",
         "features": [
             "Open fire"
         ],
-        "name": "Glenbuck"
+        "name": "Glenbuck",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/gorton/": {
         "grid_ref": "NN 375 481",
@@ -483,7 +536,8 @@
             "Open fire",
             "Fuel scarce"
         ],
-        "name": "Gorton"
+        "name": "Gorton",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/lairig-leacach/": {
         "grid_ref": "NN 282 738",
@@ -492,7 +546,8 @@
             "Small Bothy",
             "No local fuel"
         ],
-        "name": "Lairig Leacach"
+        "name": "Lairig Leacach",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/loch-chiarain/": {
         "grid_ref": "NN 289 634",
@@ -500,7 +555,8 @@
             "No local fuel",
             "Open fire"
         ],
-        "name": "Loch Chiarain"
+        "name": "Loch Chiarain",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/luib-chonnal/": {
         "grid_ref": "NN 394 936",
@@ -508,7 +564,8 @@
             "Multi-fuel stove",
             "No local fuel"
         ],
-        "name": "Luib Chonnal"
+        "name": "Luib Chonnal",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/meanach/": {
         "grid_ref": "NN 266 685",
@@ -516,7 +573,8 @@
             "Open fire",
             "No local fuel"
         ],
-        "name": "Meanach"
+        "name": "Meanach",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/central-highlands/staoineag/": {
         "grid_ref": "NN 296 678",
@@ -524,7 +582,8 @@
             "Open fire",
             "Fuel scarce"
         ],
-        "name": "Staoineag"
+        "name": "Staoineag",
+        "location": "Central Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/allt-scheicheachan/": {
         "grid_ref": "NN 835 737",
@@ -533,7 +592,8 @@
             "Open fire",
             "Fuel scarce"
         ],
-        "name": "Allt Scheicheachan"
+        "name": "Allt Scheicheachan",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/callater-stable/": {
         "grid_ref": "NO 178 845",
@@ -543,14 +603,16 @@
             "No Fire or Stove",
             "Composting toilet"
         ],
-        "name": "Callater Stable"
+        "name": "Callater Stable",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/charr/": {
         "grid_ref": "NO 616 831",
         "features": [
             "No Fire or Stove"
         ],
-        "name": "Charr"
+        "name": "Charr",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/corrour/": {
         "grid_ref": "NN 981 958",
@@ -560,7 +622,8 @@
             "Small Bothy",
             "No local fuel"
         ],
-        "name": "Corrour"
+        "name": "Corrour",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/faindouran/": {
         "grid_ref": "NJ 082 062",
@@ -568,7 +631,8 @@
             "Small Bothy",
             "Multi-fuel stove"
         ],
-        "name": "Faindouran"
+        "name": "Faindouran",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/fords-of-avon-refuge/": {
         "grid_ref": "NJ 042 032",
@@ -576,14 +640,16 @@
             "No Fire or Stove",
             "Emergency Refuge"
         ],
-        "name": "Fords of Avon Refuge"
+        "name": "Fords of Avon Refuge",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/gelder-shiel-stable/": {
         "grid_ref": "NO 258 900",
         "features": [
             "Multi-fuel stove"
         ],
-        "name": "Gelder Shiel Stable"
+        "name": "Gelder Shiel Stable",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/hutchison-memorial-hut-etchachan/": {
         "grid_ref": "NO 023 998",
@@ -592,7 +658,8 @@
             "Small Bothy",
             "No local fuel"
         ],
-        "name": "Hutchison Memorial Hut (Etchachan)"
+        "name": "Hutchison Memorial Hut (Etchachan)",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/ruigh-aiteachain/": {
         "grid_ref": "NN 847 928",
@@ -601,7 +668,8 @@
             "Wood burning stove",
             "Composting toilet"
         ],
-        "name": "Ruigh Aiteachain"
+        "name": "Ruigh Aiteachain",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/ryvoan/": {
         "grid_ref": "NJ 006 115",
@@ -610,7 +678,8 @@
             "No local fuel",
             "Small Bothy"
         ],
-        "name": "Ryvoan"
+        "name": "Ryvoan",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/shielin-of-mark/": {
         "grid_ref": "NO 337 827",
@@ -619,7 +688,8 @@
             "Open fire",
             "No local fuel"
         ],
-        "name": "Shielin of Mark"
+        "name": "Shielin of Mark",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/tarf-hotel-feith-uaine/": {
         "grid_ref": "NN 927 789",
@@ -628,7 +698,8 @@
             "Multi-fuel stove",
             "Open fire"
         ],
-        "name": "Tarf Hotel (Feith Uaine)"
+        "name": "Tarf Hotel (Feith Uaine)",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/garbh-choire-refuge/": {
         "grid_ref": null,
@@ -636,14 +707,16 @@
             "Emergency Refuge",
             "No Fire or Stove"
         ],
-        "name": "Garbh Choire Refuge"
+        "name": "Garbh Choire Refuge",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/glas-allt-shiel/": {
         "grid_ref": null,
         "features": [
             "Multi-fuel stove"
         ],
-        "name": "Glas Allt Shiel"
+        "name": "Glas Allt Shiel",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/eastern-highlands/the-red-house-ruighe-ealasaid/": {
         "grid_ref": "NO 003 869",
@@ -653,7 +726,8 @@
             "Strictly no vehicle access",
             "Sleeping Bunks"
         ],
-        "name": "The Red House (Ruighe Ealasaid)"
+        "name": "The Red House (Ruighe Ealasaid)",
+        "location": "Eastern Highlands"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/leysburnfoot-wills-bothy/": {
         "grid_ref": "NY 536 976",
@@ -661,7 +735,8 @@
             "Open fire",
             "Strictly no vehicle access"
         ],
-        "name": "Leysburnfoot (Will's Bothy)"
+        "name": "Leysburnfoot (Will's Bothy)",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/brattleburn/": {
         "grid_ref": "NT 016 069",
@@ -669,7 +744,8 @@
             "Strictly no vehicle access",
             "Wood burning stove"
         ],
-        "name": "Brattleburn"
+        "name": "Brattleburn",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/burleywhag/": {
         "grid_ref": "NS 971 001",
@@ -677,14 +753,16 @@
             "Wood burning stove",
             "Dogs under strict control"
         ],
-        "name": "Burleywhag"
+        "name": "Burleywhag",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/clennoch/": {
         "grid_ref": "NS 603 002",
         "features": [
             "No Fire or Stove"
         ],
-        "name": "Clennoch"
+        "name": "Clennoch",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/dryfehead/": {
         "grid_ref": "NY 170 999",
@@ -693,7 +771,8 @@
             "Composting toilet",
             "Multi-fuel stove"
         ],
-        "name": "Dryfehead"
+        "name": "Dryfehead",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/gameshope/": {
         "grid_ref": "NT 135 185",
@@ -702,7 +781,8 @@
             "No Fire or Stove",
             "Dogs under strict control"
         ],
-        "name": "Gameshope"
+        "name": "Gameshope",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/greensykes/": {
         "grid_ref": "NT 312 000",
@@ -711,7 +791,8 @@
             "Open fire",
             "Multi-fuel stove"
         ],
-        "name": "Greensykes"
+        "name": "Greensykes",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/kettleton-byre/": {
         "grid_ref": "NS 912 021",
@@ -720,7 +801,8 @@
             "Small Bothy",
             "Dogs under strict control"
         ],
-        "name": "Kettleton Byre"
+        "name": "Kettleton Byre",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/over-phawhope/": {
         "grid_ref": "NT 183 082",
@@ -728,21 +810,24 @@
             "Multi-fuel stove",
             "Strictly no vehicle access"
         ],
-        "name": "Over Phawhope"
+        "name": "Over Phawhope",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/tunskeen/": {
         "grid_ref": "NX 425 906",
         "features": [
             "Multi-fuel stove"
         ],
-        "name": "Tunskeen"
+        "name": "Tunskeen",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/southern-scotland/white-laggan/": {
         "grid_ref": "NX 466 775",
         "features": [
             "Wood burning stove"
         ],
-        "name": "White Laggan"
+        "name": "White Laggan",
+        "location": "Southern Scotland"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/gregs-hut-cross-fell/": {
         "grid_ref": "NY 691 355",
@@ -751,14 +836,16 @@
             "No local fuel",
             "Multi-fuel stove"
         ],
-        "name": "Greg's Hut (Cross Fell} "
+        "name": "Greg's Hut (Cross Fell} ",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/dubs-hut/": {
         "grid_ref": "NY 209 134",
         "features": [
             "Wood burning stove"
         ],
-        "name": "Dubs Hut"
+        "name": "Dubs Hut",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/green/": {
         "grid_ref": "NY 740 786",
@@ -767,7 +854,8 @@
             "Open fire",
             "Strictly no vehicle access"
         ],
-        "name": "Green"
+        "name": "Green",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/haughtongreen/": {
         "grid_ref": "NY 788 713",
@@ -776,7 +864,8 @@
             "Composting toilet",
             "Wood burning stove"
         ],
-        "name": "Haughtongreen"
+        "name": "Haughtongreen",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/kershopehead/": {
         "grid_ref": "NY 544 863",
@@ -785,7 +874,8 @@
             "Strictly no vehicle access",
             "No fires outside"
         ],
-        "name": "Kershopehead"
+        "name": "Kershopehead",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/mosedale-cottage/": {
         "grid_ref": "NY 495 095",
@@ -794,7 +884,8 @@
             "Multi-fuel stove",
             "Composting toilet"
         ],
-        "name": "Mosedale Cottage"
+        "name": "Mosedale Cottage",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/roughside/": {
         "grid_ref": "NY 745 833",
@@ -802,7 +893,8 @@
             "Composting toilet",
             "Open fire"
         ],
-        "name": "Roughside"
+        "name": "Roughside",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/spithope/": {
         "grid_ref": "NT 769 057",
@@ -811,7 +903,8 @@
             "Wood burning stove",
             "Strictly no vehicle access"
         ],
-        "name": "Spithope"
+        "name": "Spithope",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/wainhope/": {
         "grid_ref": "NY 671 925",
@@ -819,7 +912,8 @@
             "Strictly no vehicle access",
             "Multi-fuel stove"
         ],
-        "name": "Wainhope"
+        "name": "Wainhope",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/warnscale-head/": {
         "grid_ref": "NY 2047 1328",
@@ -829,7 +923,8 @@
             "Dogs under strict control",
             "No local fuel"
         ],
-        "name": "Warnscale Head"
+        "name": "Warnscale Head",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/flittingford/": {
         "grid_ref": "NY 754 886",
@@ -839,7 +934,8 @@
             "Water unreliable",
             "Small Bothy"
         ],
-        "name": "Flittingford"
+        "name": "Flittingford",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/northern-england-borders/great-lingy-hut/": {
         "grid_ref": "NY 311 335",
@@ -848,7 +944,8 @@
             "Small Bothy",
             "No fires outside"
         ],
-        "name": "Great Lingy Hut"
+        "name": "Great Lingy Hut",
+        "location": "Northern England & Borders"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/arenig-fawr/": {
         "grid_ref": "SH 850 379",
@@ -862,7 +959,8 @@
             "Open fire",
             "No local fuel"
         ],
-        "name": "Arenig Fawr"
+        "name": "Arenig Fawr",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/dulyn/": {
         "grid_ref": "SH 705 664",
@@ -874,7 +972,8 @@
             "No fires outside",
             "Dogs under strict control"
         ],
-        "name": "Dulyn"
+        "name": "Dulyn",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/grwyne-fawr/": {
         "grid_ref": "SO 225 313",
@@ -885,7 +984,8 @@
             "No fires outside",
             "Dogs under strict control"
         ],
-        "name": "Grwyne Fawr"
+        "name": "Grwyne Fawr",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/lluest-cwmbach/": {
         "grid_ref": "SN 901 705",
@@ -897,7 +997,8 @@
             "No fires outside",
             "Dogs under strict control"
         ],
-        "name": "Lluest Cwmbach"
+        "name": "Lluest Cwmbach",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/moel-prysgau/": {
         "grid_ref": "SN 807 612",
@@ -907,7 +1008,8 @@
             "Sleeping platform",
             "Multi-fuel stove"
         ],
-        "name": "Moel Prysgau"
+        "name": "Moel Prysgau",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/nant-rhys/": {
         "grid_ref": "SN 837 793",
@@ -917,7 +1019,8 @@
             "Sleeping platform",
             "Multi-fuel stove"
         ],
-        "name": "Nant Rhys"
+        "name": "Nant Rhys",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/nant-syddion/": {
         "grid_ref": "SN 773 791",
@@ -927,7 +1030,8 @@
             "Strictly no vehicle access",
             "No fires outside"
         ],
-        "name": "Nant Syddion"
+        "name": "Nant Syddion",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/penrhos-isaf/": {
         "grid_ref": "SH 738 239",
@@ -938,7 +1042,8 @@
             "Multi-fuel stove",
             "Composting toilet"
         ],
-        "name": "Penrhos Isaf"
+        "name": "Penrhos Isaf",
+        "location": "Wales"
     },
     "https://www.mountainbothies.org.uk/bothies/wales/cae-amos/": {
         "grid_ref": "SH  517 455",
@@ -948,6 +1053,7 @@
             "No fires outside",
             "Dogs under strict control"
         ],
-        "name": "Cae Amos"
+        "name": "Cae Amos",
+        "location": "Wales"
     }
 }

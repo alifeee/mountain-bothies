@@ -11,7 +11,8 @@
                     "Dogs under strict control",
                     "Open fire"
                 ],
-                "name": "Achnanclach"
+                "name": "Achnanclach",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -32,7 +33,8 @@
                     "No fires outside",
                     "Dogs under strict control"
                 ],
-                "name": "Coiremor (Choire Mhoir)"
+                "name": "Coiremor (Choire Mhoir)",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +53,8 @@
                     "Strictly no vehicle access",
                     "Dogs under strict control"
                 ],
-                "name": "Croft House (Lochstrathy)"
+                "name": "Croft House (Lochstrathy)",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +73,8 @@
                     "Open fire",
                     "Sleeping platform"
                 ],
-                "name": "Glencoul"
+                "name": "Glencoul",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -88,7 +92,8 @@
                     "Fuel scarce",
                     "Open fire"
                 ],
-                "name": "Glendhu"
+                "name": "Glendhu",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +113,8 @@
                     "Strictly no vehicle access",
                     "Fuel scarce"
                 ],
-                "name": "Kearvaig"
+                "name": "Kearvaig",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -128,7 +134,8 @@
                     "Open fire",
                     "Sleeping platform"
                 ],
-                "name": "Knockdamph"
+                "name": "Knockdamph",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +152,8 @@
                 "features": [
                     "No Fire or Stove"
                 ],
-                "name": "Schoolhouse (Duag Bridge)"
+                "name": "Schoolhouse (Duag Bridge)",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +174,8 @@
                     "Strictly no vehicle access",
                     "No fires outside"
                 ],
-                "name": "Shenavall"
+                "name": "Shenavall",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +195,8 @@
                     "Strictly no vehicle access",
                     "Open fire"
                 ],
-                "name": "Strabeg"
+                "name": "Strabeg",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -209,7 +219,8 @@
                     "Open fire",
                     "Dogs under strict control"
                 ],
-                "name": "Strathan"
+                "name": "Strathan",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +240,8 @@
                     "Cut your own peat",
                     "Open fire"
                 ],
-                "name": "Strathchailleach"
+                "name": "Strathchailleach",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +260,8 @@
                     "Open fire",
                     "No local fuel"
                 ],
-                "name": "Suileag"
+                "name": "Suileag",
+                "location": "Northern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +280,8 @@
                     "Open fire",
                     "No local fuel"
                 ],
-                "name": "Bearnais"
+                "name": "Bearnais",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +300,8 @@
                     "No Fire or Stove",
                     "Sleeping platform"
                 ],
-                "name": "Camasunary"
+                "name": "Camasunary",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +320,8 @@
                     "Sleeping platform",
                     "Fuel scarce"
                 ],
-                "name": "Camban"
+                "name": "Camban",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +339,8 @@
                     "No local fuel",
                     "Multi-fuel stove"
                 ],
-                "name": "Coire Fionnaraich"
+                "name": "Coire Fionnaraich",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -340,7 +357,8 @@
                 "features": [
                     "Multi-fuel stove"
                 ],
-                "name": "Craig"
+                "name": "Craig",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +377,8 @@
                     "No Fire or Stove",
                     "No fires outside"
                 ],
-                "name": "Easan Dorcha (The Teahouse)"
+                "name": "Easan Dorcha (The Teahouse)",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +397,8 @@
                     "No Fire or Stove",
                     "Small Bothy"
                 ],
-                "name": "Lookout (Rubha Hunish)"
+                "name": "Lookout (Rubha Hunish)",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -396,7 +416,8 @@
                     "Fuel scarce",
                     "Open fire"
                 ],
-                "name": "Maol Bhuidhe"
+                "name": "Maol Bhuidhe",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +436,8 @@
                     "Open fire",
                     "Small Bothy"
                 ],
-                "name": "Ollisdal"
+                "name": "Ollisdal",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +456,8 @@
                     "Open fire",
                     "Fuel scarce"
                 ],
-                "name": "Taigh Thormoid Dhuibh (Raasay)"
+                "name": "Taigh Thormoid Dhuibh (Raasay)",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -451,7 +474,8 @@
                 "features": [
                     "Open fire"
                 ],
-                "name": "Uags"
+                "name": "Uags",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -469,7 +493,8 @@
                     "Small Bothy",
                     "Multi-fuel stove"
                 ],
-                "name": "Uisinis"
+                "name": "Uisinis",
+                "location": "North West Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -488,7 +513,8 @@
                     "Sleeping platform",
                     "Strictly no vehicle access"
                 ],
-                "name": "A'Chuil"
+                "name": "A'Chuil",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -508,7 +534,8 @@
                     "Multi-fuel stove",
                     "Fuel scarce"
                 ],
-                "name": "Dibidil"
+                "name": "Dibidil",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -527,7 +554,8 @@
                     "Sleeping platform",
                     "Open fire"
                 ],
-                "name": "Gleann Dubh-lighe"
+                "name": "Gleann Dubh-lighe",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -549,7 +577,8 @@
                     "No fires outside",
                     "Composting toilet"
                 ],
-                "name": "Glenpean"
+                "name": "Glenpean",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -568,7 +597,8 @@
                     "Sleeping platform",
                     "Dogs under strict control"
                 ],
-                "name": "Guirdil"
+                "name": "Guirdil",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -588,7 +618,8 @@
                     "Strictly no vehicle access",
                     "Dogs under strict control"
                 ],
-                "name": "Invermallie"
+                "name": "Invermallie",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +638,8 @@
                     "Fuel scarce",
                     "Small Bothy"
                 ],
-                "name": "Kinbreack"
+                "name": "Kinbreack",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +660,8 @@
                     "Sleeping platform",
                     "Open fire"
                 ],
-                "name": "Oban"
+                "name": "Oban",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +683,8 @@
                     "Fuel scarce",
                     "Open fire"
                 ],
-                "name": "Sourlies"
+                "name": "Sourlies",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -672,7 +706,8 @@
                     "Sleeping platform",
                     "Open fire"
                 ],
-                "name": "Suardalan"
+                "name": "Suardalan",
+                "location": "Western Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -690,7 +725,8 @@
                     "Strictly no vehicle access",
                     "Open fire"
                 ],
-                "name": "Cadderlie"
+                "name": "Cadderlie",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +747,8 @@
                     "No dogs allowed",
                     "Open fire"
                 ],
-                "name": "Carron"
+                "name": "Carron",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +766,8 @@
                     "No local fuel",
                     "Open fire"
                 ],
-                "name": "Cruib"
+                "name": "Cruib",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -746,7 +784,8 @@
                 "features": [
                     "Open fire"
                 ],
-                "name": "Doune Byre"
+                "name": "Doune Byre",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -765,7 +804,8 @@
                     "Open fire",
                     "Fuel scarce"
                 ],
-                "name": "Essan"
+                "name": "Essan",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +824,8 @@
                     "Open fire",
                     "Multi-fuel stove"
                 ],
-                "name": "Glengarrisdale"
+                "name": "Glengarrisdale",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -803,7 +844,8 @@
                     "Open fire",
                     "Dogs under strict control"
                 ],
-                "name": "Leacraithnaich"
+                "name": "Leacraithnaich",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -821,7 +863,8 @@
                     "Open fire",
                     "No fires outside"
                 ],
-                "name": "Mark Cottage"
+                "name": "Mark Cottage",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -841,7 +884,8 @@
                     "Open fire",
                     "No fires outside"
                 ],
-                "name": "Resourie"
+                "name": "Resourie",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -860,7 +904,8 @@
                     "Open fire",
                     "No fires outside"
                 ],
-                "name": "Rowchoish"
+                "name": "Rowchoish",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -878,7 +923,8 @@
                     "Wood burning stove",
                     "Sleeping platform"
                 ],
-                "name": "Taigh Seumas a\u2019 Ghlinne (Glenduror)"
+                "name": "Taigh Seumas a\u2019 Ghlinne (Glenduror)",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -897,7 +943,8 @@
                     "Open fire",
                     "Sleeping platform"
                 ],
-                "name": "Tomsleibhe"
+                "name": "Tomsleibhe",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -912,7 +959,8 @@
             "properties": {
                 "url": "https://www.mountainbothies.org.uk/bothies/southwest-highlands-islands/druimnashallag/",
                 "features": [],
-                "name": "Druimnashallag"
+                "name": "Druimnashallag",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -931,7 +979,8 @@
                     "Multi-fuel stove",
                     "Strictly no vehicle access"
                 ],
-                "name": "Abyssinia"
+                "name": "Abyssinia",
+                "location": "Southwest Highlands & Islands"
             },
             "geometry": {
                 "type": "Point",
@@ -949,7 +998,8 @@
                     "Fuel scarce",
                     "Multi-fuel stove"
                 ],
-                "name": "Ben Alder Cottage"
+                "name": "Ben Alder Cottage",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -967,7 +1017,8 @@
                     "Open fire",
                     "Small Bothy"
                 ],
-                "name": "Blackburn of Corrieyairack"
+                "name": "Blackburn of Corrieyairack",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -982,7 +1033,8 @@
             "properties": {
                 "url": "https://www.mountainbothies.org.uk/bothies/central-highlands/culra/",
                 "features": [],
-                "name": "Culra"
+                "name": "Culra",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1051,8 @@
                 "features": [
                     "Open fire"
                 ],
-                "name": "Glenbuck"
+                "name": "Glenbuck",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1017,7 +1070,8 @@
                     "Open fire",
                     "Fuel scarce"
                 ],
-                "name": "Gorton"
+                "name": "Gorton",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1036,7 +1090,8 @@
                     "Small Bothy",
                     "No local fuel"
                 ],
-                "name": "Lairig Leacach"
+                "name": "Lairig Leacach",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,7 +1109,8 @@
                     "No local fuel",
                     "Open fire"
                 ],
-                "name": "Loch Chiarain"
+                "name": "Loch Chiarain",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1072,7 +1128,8 @@
                     "Multi-fuel stove",
                     "No local fuel"
                 ],
-                "name": "Luib Chonnal"
+                "name": "Luib Chonnal",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1090,7 +1147,8 @@
                     "Open fire",
                     "No local fuel"
                 ],
-                "name": "Meanach"
+                "name": "Meanach",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1108,7 +1166,8 @@
                     "Open fire",
                     "Fuel scarce"
                 ],
-                "name": "Staoineag"
+                "name": "Staoineag",
+                "location": "Central Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1127,7 +1186,8 @@
                     "Open fire",
                     "Fuel scarce"
                 ],
-                "name": "Allt Scheicheachan"
+                "name": "Allt Scheicheachan",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1147,7 +1207,8 @@
                     "No Fire or Stove",
                     "Composting toilet"
                 ],
-                "name": "Callater Stable"
+                "name": "Callater Stable",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1164,7 +1225,8 @@
                 "features": [
                     "No Fire or Stove"
                 ],
-                "name": "Charr"
+                "name": "Charr",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1184,7 +1246,8 @@
                     "Small Bothy",
                     "No local fuel"
                 ],
-                "name": "Corrour"
+                "name": "Corrour",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1202,7 +1265,8 @@
                     "Small Bothy",
                     "Multi-fuel stove"
                 ],
-                "name": "Faindouran"
+                "name": "Faindouran",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1220,7 +1284,8 @@
                     "No Fire or Stove",
                     "Emergency Refuge"
                 ],
-                "name": "Fords of Avon Refuge"
+                "name": "Fords of Avon Refuge",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1237,7 +1302,8 @@
                 "features": [
                     "Multi-fuel stove"
                 ],
-                "name": "Gelder Shiel Stable"
+                "name": "Gelder Shiel Stable",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1256,7 +1322,8 @@
                     "Small Bothy",
                     "No local fuel"
                 ],
-                "name": "Hutchison Memorial Hut (Etchachan)"
+                "name": "Hutchison Memorial Hut (Etchachan)",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1275,7 +1342,8 @@
                     "Wood burning stove",
                     "Composting toilet"
                 ],
-                "name": "Ruigh Aiteachain"
+                "name": "Ruigh Aiteachain",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1294,7 +1362,8 @@
                     "No local fuel",
                     "Small Bothy"
                 ],
-                "name": "Ryvoan"
+                "name": "Ryvoan",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1313,7 +1382,8 @@
                     "Open fire",
                     "No local fuel"
                 ],
-                "name": "Shielin of Mark"
+                "name": "Shielin of Mark",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1332,7 +1402,8 @@
                     "Multi-fuel stove",
                     "Open fire"
                 ],
-                "name": "Tarf Hotel (Feith Uaine)"
+                "name": "Tarf Hotel (Feith Uaine)",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1352,7 +1423,8 @@
                     "Strictly no vehicle access",
                     "Sleeping Bunks"
                 ],
-                "name": "The Red House (Ruighe Ealasaid)"
+                "name": "The Red House (Ruighe Ealasaid)",
+                "location": "Eastern Highlands"
             },
             "geometry": {
                 "type": "Point",
@@ -1370,7 +1442,8 @@
                     "Open fire",
                     "Strictly no vehicle access"
                 ],
-                "name": "Leysburnfoot (Will's Bothy)"
+                "name": "Leysburnfoot (Will's Bothy)",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1388,7 +1461,8 @@
                     "Strictly no vehicle access",
                     "Wood burning stove"
                 ],
-                "name": "Brattleburn"
+                "name": "Brattleburn",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1406,7 +1480,8 @@
                     "Wood burning stove",
                     "Dogs under strict control"
                 ],
-                "name": "Burleywhag"
+                "name": "Burleywhag",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1423,7 +1498,8 @@
                 "features": [
                     "No Fire or Stove"
                 ],
-                "name": "Clennoch"
+                "name": "Clennoch",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1442,7 +1518,8 @@
                     "Composting toilet",
                     "Multi-fuel stove"
                 ],
-                "name": "Dryfehead"
+                "name": "Dryfehead",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1461,7 +1538,8 @@
                     "No Fire or Stove",
                     "Dogs under strict control"
                 ],
-                "name": "Gameshope"
+                "name": "Gameshope",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1480,7 +1558,8 @@
                     "Open fire",
                     "Multi-fuel stove"
                 ],
-                "name": "Greensykes"
+                "name": "Greensykes",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1499,7 +1578,8 @@
                     "Small Bothy",
                     "Dogs under strict control"
                 ],
-                "name": "Kettleton Byre"
+                "name": "Kettleton Byre",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1517,7 +1597,8 @@
                     "Multi-fuel stove",
                     "Strictly no vehicle access"
                 ],
-                "name": "Over Phawhope"
+                "name": "Over Phawhope",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1534,7 +1615,8 @@
                 "features": [
                     "Multi-fuel stove"
                 ],
-                "name": "Tunskeen"
+                "name": "Tunskeen",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1551,7 +1633,8 @@
                 "features": [
                     "Wood burning stove"
                 ],
-                "name": "White Laggan"
+                "name": "White Laggan",
+                "location": "Southern Scotland"
             },
             "geometry": {
                 "type": "Point",
@@ -1570,7 +1653,8 @@
                     "No local fuel",
                     "Multi-fuel stove"
                 ],
-                "name": "Greg's Hut (Cross Fell} "
+                "name": "Greg's Hut (Cross Fell} ",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1587,7 +1671,8 @@
                 "features": [
                     "Wood burning stove"
                 ],
-                "name": "Dubs Hut"
+                "name": "Dubs Hut",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1606,7 +1691,8 @@
                     "Open fire",
                     "Strictly no vehicle access"
                 ],
-                "name": "Green"
+                "name": "Green",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1625,7 +1711,8 @@
                     "Composting toilet",
                     "Wood burning stove"
                 ],
-                "name": "Haughtongreen"
+                "name": "Haughtongreen",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1644,7 +1731,8 @@
                     "Strictly no vehicle access",
                     "No fires outside"
                 ],
-                "name": "Kershopehead"
+                "name": "Kershopehead",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1663,7 +1751,8 @@
                     "Multi-fuel stove",
                     "Composting toilet"
                 ],
-                "name": "Mosedale Cottage"
+                "name": "Mosedale Cottage",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1770,8 @@
                     "Composting toilet",
                     "Open fire"
                 ],
-                "name": "Roughside"
+                "name": "Roughside",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,7 +1790,8 @@
                     "Wood burning stove",
                     "Strictly no vehicle access"
                 ],
-                "name": "Spithope"
+                "name": "Spithope",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1718,7 +1809,8 @@
                     "Strictly no vehicle access",
                     "Multi-fuel stove"
                 ],
-                "name": "Wainhope"
+                "name": "Wainhope",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,7 +1830,8 @@
                     "Dogs under strict control",
                     "No local fuel"
                 ],
-                "name": "Warnscale Head"
+                "name": "Warnscale Head",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1758,7 +1851,8 @@
                     "Water unreliable",
                     "Small Bothy"
                 ],
-                "name": "Flittingford"
+                "name": "Flittingford",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1777,7 +1871,8 @@
                     "Small Bothy",
                     "No fires outside"
                 ],
-                "name": "Great Lingy Hut"
+                "name": "Great Lingy Hut",
+                "location": "Northern England & Borders"
             },
             "geometry": {
                 "type": "Point",
@@ -1801,7 +1896,8 @@
                     "Open fire",
                     "No local fuel"
                 ],
-                "name": "Arenig Fawr"
+                "name": "Arenig Fawr",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1823,7 +1919,8 @@
                     "No fires outside",
                     "Dogs under strict control"
                 ],
-                "name": "Dulyn"
+                "name": "Dulyn",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1844,7 +1941,8 @@
                     "No fires outside",
                     "Dogs under strict control"
                 ],
-                "name": "Grwyne Fawr"
+                "name": "Grwyne Fawr",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1866,7 +1964,8 @@
                     "No fires outside",
                     "Dogs under strict control"
                 ],
-                "name": "Lluest Cwmbach"
+                "name": "Lluest Cwmbach",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1886,7 +1985,8 @@
                     "Sleeping platform",
                     "Multi-fuel stove"
                 ],
-                "name": "Moel Prysgau"
+                "name": "Moel Prysgau",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1906,7 +2006,8 @@
                     "Sleeping platform",
                     "Multi-fuel stove"
                 ],
-                "name": "Nant Rhys"
+                "name": "Nant Rhys",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1926,7 +2027,8 @@
                     "Strictly no vehicle access",
                     "No fires outside"
                 ],
-                "name": "Nant Syddion"
+                "name": "Nant Syddion",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,7 +2049,8 @@
                     "Multi-fuel stove",
                     "Composting toilet"
                 ],
-                "name": "Penrhos Isaf"
+                "name": "Penrhos Isaf",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
@@ -1967,7 +2070,8 @@
                     "No fires outside",
                     "Dogs under strict control"
                 ],
-                "name": "Cae Amos"
+                "name": "Cae Amos",
+                "location": "Wales"
             },
             "geometry": {
                 "type": "Point",
