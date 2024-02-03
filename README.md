@@ -52,3 +52,20 @@ py get_bothies.py
 ```bash
 py to_geojson.py
 ```
+
+## Map
+
+You can visualise the `geojson` on Bing Maps using the [`index.html`](./index.html) template. You need to fill in the following line with an API key you can get from <https://learn.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key>
+
+```html
+<script
+    type="text/javascript"
+    src="https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key={{api_key}}"
+    async
+    defer
+></script>
+```
+
+Alternatively, for a quick and dirty example, paste the [`geojson` file](./bothies.geojson) into [Bing's `geojson` example](https://www.bing.com/api/maps/sdk/mapcontrol/isdk/geojsonreadobject#JS).
+
+![Screenshot of Bing Maps with markers on](images/bing_geojson.png)

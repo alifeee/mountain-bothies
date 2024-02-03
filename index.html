@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bothie map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- bing maps API -->
+    <!-- create key with https://learn.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key -->
+    <script
+      type="text/javascript"
+      src="https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key={{api_key}}"
+      async
+      defer
+    ></script>
+
+    <script type="text/javascript">
+      async function GetMap() {
+        var map = new Microsoft.Maps.Map(document.getElementById("myMap"), {
+          /* No need to set credentials if already passed in URL */
+          center: new Microsoft.Maps.Location(56, -4),
+          zoom: 6,
+        });
+
+        colour_cycle = [
+          "#FFFF00",
+          "#FF00FF",
+          "#00FFFF",
+          "#000000",
+          "#800000",
+          "#008000",
+          "#000080",
+          "#808000",
+          "#800080",
+          "#008080",
+          "#C00000",
+          "#0000C0",
+          "#C000C0",
+          "#00C0C0",
+          "#C0C0C0",
+          "#400000",
+          "#004000",
+        ];
+
+        let geoJson = await getGeoJson();
+        Microsoft.Maps.loadModule("Microsoft.Maps.GeoJson", function () {
+          // read geojson with https://www.bing.com/api/maps/sdk/mapcontrol/isdk/geojsonreadobject#JS
+          var featureCollection = Microsoft.Maps.GeoJson.read(geoJson);
+
+          colours = {};
+          for (var i = 0; i < featureCollection.length; i++) {
+            let feature = featureCollection[i];
+
+            let location = feature.metadata.location;
+            let colour = colours[location] || colour_cycle.pop();
+            colours[location] = colour;
+
+            // for options see
+            // https://learn.microsoft.com/en-us/bingmaps/v8-web-control/map-control-concepts/pushpins/
+            feature.setOptions({
+              title: feature.metadata.name,
+              color: colour,
+              iconStyle: 3,
+            });
+            map.entities.push(feature);
+
+            // https://learn.microsoft.com/en-us/bingmaps/v8-web-control/map-control-concepts/pushpins/pushpin-events-example
+            Microsoft.Maps.Events.addHandler(feature, "click", function () {
+              let url = feature.metadata.url;
+              if (url) {
+                window.open(url, "_blank");
+              }
+            });
+          }
+        });
+        async function getGeoJson() {
+          return await fetch("bothies.geojson").then((response) =>
+            response.json()
+          );
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #myMap {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body onload="GetMap()">
+    <div id="myMap"></div>
+  </body>
+</html>
