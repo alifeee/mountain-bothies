@@ -31,6 +31,8 @@ Info output as `geoJSON` file -> [`bothies.geojson`](./bothies.geojson), for exa
 
 Load this file on any mapping software, such as <https://geojson.io/>.
 
+<https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fmountain-bothies%2Frefs%2Fheads%2Fmain%2Fbothies.geojson>
+
 ## Development
 
 Requirements: Python 3
