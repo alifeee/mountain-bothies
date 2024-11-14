@@ -2,6 +2,8 @@
 
 Scraping of Mountain Bothie locations from the Mountain Bothie website <https://www.mountainbothies.org.uk/bothies/location-map/>.
 
+see more maps on <https://alifeee.co.uk/maps/>
+
 Info output as `geoJSON` file -> [`bothies.geojson`](./bothies.geojson), for example,
 
 ```json
